@@ -55,5 +55,5 @@ dotnet run
 **Paso 4.** Si usas Visual Studio, crea un proyecto de aplicación de consola, pega el código en `Program.cs` y ejecuta con `Ctrl+F5`.
 
 ## Capturas de pantalla del programa en ejecución
-<!-- Agrega aquí tus capturas de pantalla, por ejemplo: -->
-<!-- <img width="1110" height="629" alt="image" src="URL_DE_TU_CAPTURA" /> -->
+<img width="1130" height="408" alt="image" src="https://github.com/user-attachments/assets/16bba13c-0c85-45e9-bfac-dff2352c7fa9" />
+
